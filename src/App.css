@@ -10,3 +10,8 @@ body,
 body {
   overflow-x: hidden;
 }
+
+.foot {
+    padding: 70px 6vw 50px;
+    min-height: 100vh;
+}
